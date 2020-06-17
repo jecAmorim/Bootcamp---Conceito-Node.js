@@ -63,10 +63,10 @@ app.get('/projects', (request, response) => {
 ## Como Instalar o projeto
 ```bash
 # Clone this repository
-$ git clone https://github.com/jecAmorim/Next-Level-Week-1
+$ git clone https://github.com/jecAmorim/Bootcamp---Conceito-Node.js
 
 # Go into the repository
-$ cd Next-Level-Week-1
+$ cd Bootcamp---Conceito-Node.js
 
 # Install dependencies of backend
 $ cd backend
