@@ -1,7 +1,7 @@
 <h2 align="center" color="#7159c1">
 	GoStack - Conceitos Node.js
 	<br></br>
-	<img alt="gostack" title="#gostack" src="assets/logo.svg" width="250px" />
+	<img alt="gostack" title="#gostack" src="assets/logo.png" width="250px" />
 </h2>
 
 <p align="center">
